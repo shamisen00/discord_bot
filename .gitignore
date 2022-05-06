@@ -1,0 +1,10 @@
+.venv/
+data/
+pictures/
+.ipynb*/
+.vscode/
+.env
+*.pyc
+__pycache__
+config.yml
+*.jl
